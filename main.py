@@ -30,3 +30,6 @@ x = input("Please enter you stock symbol:")
 #print (z)
 z = stocks_dict.get(x, 'Please try again inputting the correct symbol')
 print (z)
+
+
+print ("hello github? test test")
